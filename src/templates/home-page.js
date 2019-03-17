@@ -57,8 +57,6 @@ export const HomePageTemplate = ({
 
         <div className='columns'>
       <section className='section'>
-      <h3 className='has-text-weight-semibold is-size-3 has-text-primary'>Testimonials</h3>
-   <Testimonials testimonials={testimonials} />
       </section>
     </div>
 

@@ -20,10 +20,10 @@ const Footer = () => {
           <div className='column has-text-centered'>
             <div>
               <p className='heading'><strong>SOCIAL MEDIA</strong></p>
-                <a href='https://www.facebook.com/HighMountainHomeInspections/'>
+                <a href='https://www.facebook.com/'>
                   <img src={facebook} alt='' className="social-media-icons" />
                 </a>
-                <a href='https://www.instagram.com/highmountainhomes/'>
+                <a href='https://www.instagram.com/'>
                   <img src={instagram} alt='' className="social-media-icons" />
                 </a>
             </div>

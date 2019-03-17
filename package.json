@@ -27,6 +27,9 @@
     "prop-types": "^15.6.1",
     "react-disqus-comments": "^1.1.1",
     "react-helmet": "^5.2.0",
+    "react-images": "^0.5.19",
+    "react-lightbox-component": "^1.2.1",
+    "react-photo-gallery": "^6.3.2",
     "react-share": "2.1.0"
   },
   "license": "MIT",

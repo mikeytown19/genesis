@@ -103,6 +103,12 @@ body {
   }
 }
 
+.gallery-images {
+  img {
+    height: 100% !important;
+  }
+}
+
 .background-red {
   background-color: $lightred;
 }

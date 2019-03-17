@@ -10,6 +10,9 @@ class Disqus extends Component {
     super(props)
     this.state = {
       toasts: [],
+      lightboxIsOpen: false,
+			currentImage: 0,
+
     }
     this.notifyAboutComment = this.notifyAboutComment.bind(this)
     this.onSnackbarDismiss = this.onSnackbarDismiss.bind(this)
